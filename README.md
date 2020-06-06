@@ -1,0 +1,1 @@
+This is a blog-list-app which is a backend server made using Node.js, Express and MongoDB.
