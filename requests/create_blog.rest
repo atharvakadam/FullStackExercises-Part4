@@ -1,0 +1,9 @@
+POST 'http://localhost:3003/api/blogs'
+Content-Type: application/json
+
+{
+    "title": "The Trash Command",
+    "author": "Atharva Kadam",
+    "url": "atharva.uncleand.us",
+    "likes": 10000
+}
